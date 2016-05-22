@@ -1,0 +1,8 @@
+demo/api/v1/CatalogServiceV1.class
+demo/catalog/CatalogInfoRepository.class
+demo/product/Product.class
+demo/CatalogServiceApplication.class
+demo/api/v1/CatalogControllerV1.class
+demo/catalog/CatalogInfo.class
+demo/catalog/Catalog.class
+demo/api/v1/ProductsResource.class

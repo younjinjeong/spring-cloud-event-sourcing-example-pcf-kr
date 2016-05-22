@@ -1,0 +1,8 @@
+/Users/jeongy4/Workspace/Samples/spring-cloud-event-sourcing-example/catalog-service/src/main/java/demo/product/Product.java
+/Users/jeongy4/Workspace/Samples/spring-cloud-event-sourcing-example/catalog-service/src/main/java/demo/catalog/Catalog.java
+/Users/jeongy4/Workspace/Samples/spring-cloud-event-sourcing-example/catalog-service/src/main/java/demo/catalog/CatalogInfo.java
+/Users/jeongy4/Workspace/Samples/spring-cloud-event-sourcing-example/catalog-service/src/main/java/demo/api/v1/ProductsResource.java
+/Users/jeongy4/Workspace/Samples/spring-cloud-event-sourcing-example/catalog-service/src/main/java/demo/api/v1/CatalogControllerV1.java
+/Users/jeongy4/Workspace/Samples/spring-cloud-event-sourcing-example/catalog-service/src/main/java/demo/api/v1/CatalogServiceV1.java
+/Users/jeongy4/Workspace/Samples/spring-cloud-event-sourcing-example/catalog-service/src/main/java/demo/catalog/CatalogInfoRepository.java
+/Users/jeongy4/Workspace/Samples/spring-cloud-event-sourcing-example/catalog-service/src/main/java/demo/CatalogServiceApplication.java

@@ -1,0 +1,11 @@
+/Users/jeongy4/Workspace/Samples/spring-cloud-event-sourcing-example/user-service/src/main/java/demo/api/v1/UserServiceV1.java
+/Users/jeongy4/Workspace/Samples/spring-cloud-event-sourcing-example/user-service/src/main/java/demo/login/LoginController.java
+/Users/jeongy4/Workspace/Samples/spring-cloud-event-sourcing-example/user-service/src/main/java/demo/login/UserController.java
+/Users/jeongy4/Workspace/Samples/spring-cloud-event-sourcing-example/user-service/src/main/java/demo/user/User.java
+/Users/jeongy4/Workspace/Samples/spring-cloud-event-sourcing-example/user-service/src/main/java/demo/data/BaseEntity.java
+/Users/jeongy4/Workspace/Samples/spring-cloud-event-sourcing-example/user-service/src/main/java/demo/config/WebMvcConfig.java
+/Users/jeongy4/Workspace/Samples/spring-cloud-event-sourcing-example/user-service/src/main/java/demo/user/UserRepository.java
+/Users/jeongy4/Workspace/Samples/spring-cloud-event-sourcing-example/user-service/src/main/java/demo/UserApplication.java
+/Users/jeongy4/Workspace/Samples/spring-cloud-event-sourcing-example/user-service/src/main/java/demo/api/v1/UserControllerV1.java
+/Users/jeongy4/Workspace/Samples/spring-cloud-event-sourcing-example/user-service/src/main/java/demo/config/AuthorizationServerConfig.java
+/Users/jeongy4/Workspace/Samples/spring-cloud-event-sourcing-example/user-service/src/main/java/demo/config/ResourceServerConfig.java
